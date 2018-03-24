@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+this is class1;lk'pk;lkkl;l;
+=======
 this is class1
 
 this is edited
 
 again update this file
+>>>>>>> df53826282b3345af06660701457e0161fc7ba86
